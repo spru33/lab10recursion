@@ -1,4 +1,3 @@
-# comp 151 lab 10: recursive number explorer
 def sum_numbers(n):
     if n == 0: # base case
         return 0
